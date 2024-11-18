@@ -39,7 +39,7 @@ Credit risk assessment traditionally disadvantages individuals with less than on
 
 ## Data Sources <!--- do not change this line -->
 
-- **Kaggle**: [Credit Card Approval Prediction Dataset](https://www.kaggle.com/)
+- **Kaggle**: [Credit Card Approval Prediction Dataset]([https://www.kaggle.com/code/caesarmario/credit-card-approval-prediction-w-pycaret])
 - Supplementary research:
   - World Bank: Financial Inclusion
   - S&P Global: Machine Learning and Credit Risk Modelling
