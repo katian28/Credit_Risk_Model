@@ -63,7 +63,7 @@ Credit risk assessment traditionally disadvantages individuals with less than on
 ## Authors <!--- do not change this line -->
 
 This project was completed in collaboration with:
-- **Serafina Wang**, **Megane Alexis**, **Praise Manzi**, **Katia Nkurunziza**, **Mariam Lomishvili**, **Mosopefoluwa John**
+**Katia Nkurunziza**, **Megane Alexis**, **Praise Manzi**, **Katia Nkurunziza**, **Mariam Lomishvili**, **Mosopefoluwa John**, **Serafina Wang**
 
 
 For questions or contributions, please contact ux.
