@@ -13,7 +13,7 @@ Credit risk assessment traditionally disadvantages individuals with less than on
 ## Key Results <!--- do not change this line -->
 
 1. Identified the most influential socioeconomic factors affecting credit risk for individuals with limited credit history.
-2. Built interpretable and high-performing machine learning models, including logistic regression, Random Forest, and XGBoost, achieving an accuracy of over 80% on the test set.
+2. Built interpretable and high-performing machine learning models, including logistic regression, Random Forest, and XGBoost, achieving an accuracy of about 80% on the test set.
 3. Implemented fairness-aware techniques to address historical, representation, and measurement biases in the dataset.
 
 ---
